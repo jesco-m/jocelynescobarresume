@@ -1,0 +1,68 @@
+body {
+    background-image: url("../assets/img/pokemonforest.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+nav {
+    background-color: #2a75bb;
+    padding: 10px;
+    text-align: right;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    color: #ffcb05;
+    text-align: center;
+}
+
+h2 {
+    color: #2a75bb;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+ol, ul {
+    margin: 20px;
+    padding: 0;
+    list-style-position: inside;
+}
+
+#header{
+    background-color: rgba(255, 255, 255, 0.952);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+#content{
+    background-color: rgba(201, 232, 243, 0.952);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+#footer{
+    background-color: rgba(197, 245, 216, 0.952);
+    text-align: right;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}

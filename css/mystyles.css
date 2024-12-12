@@ -1,0 +1,15 @@
+.bg-primary{
+    background-color: rgb(43, 51, 135);
+}
+.text-primary{
+    color:rgb(43, 51, 135) ;
+}
+a{
+    color: rgb(43, 51, 135);
+}
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.subheading{
+    font-family: 'Times New Roman', Times, serif;
+}
